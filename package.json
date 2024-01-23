@@ -1,10 +1,10 @@
 {
-  "name": "ts-lib-template",
+  "name": "@blueprint-breeze/element-position-watcher",
   "version": "0.0.0",
   "license": "MIT",
   "author": "Pengsha Ying <yingfusheng@foxmail.com>",
-  "description": "😎 Awesome typescript library template",
-  "repository": "git@github.com:yingpengsha/ts-lib-template.git",
+  "description": "Allows high-performance monitoring of the position of DOM.",
+  "repository": "git@github.com:Blueprint-Breeze/element-position-watcher.git",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
